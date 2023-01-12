@@ -21,3 +21,10 @@ export default {
       leftDrawerOpen: false,
     };
   },
+  computed: {
+    dashboards() {
+      return [];
+    },
+  },
+};
+</script>
